@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>樱行的博客</title><link>https://sayxd2024.github.io/sayxd2024</link><description>欲买桂花同载酒，终不似，少年游</description><copyright>樱行的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=3837108270&amp;spec=640&amp;img_type=png</url><title>avatar</title><link>https://sayxd2024.github.io/sayxd2024</link></image><lastBuildDate>Fri, 20 Sep 2024 14:09:35 +0000</lastBuildDate><managingEditor>樱行的博客</managingEditor><ttl>60</ttl><webMaster>樱行的博客</webMaster><item><title>关于博客</title><link>https://sayxd2024.github.io/sayxd2024/post/guan-yu-bo-ke.html</link><description># 欢迎来到我的博客&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>樱行的博客</title><link>https://sayxd2024.github.io/sayxd2024</link><description>欲买桂花同载酒，终不似，少年游</description><copyright>樱行的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>http://q.qlogo.cn/headimg_dl?dst_uin=3837108270&amp;spec=640&amp;img_type=png</url><title>avatar</title><link>https://sayxd2024.github.io/sayxd2024</link></image><lastBuildDate>Sun, 22 Sep 2024 10:30:44 +0000</lastBuildDate><managingEditor>樱行的博客</managingEditor><ttl>60</ttl><webMaster>樱行的博客</webMaster><item><title>关于博客</title><link>https://sayxd2024.github.io/sayxd2024/about.html</link><description># 欢迎来到我的博客&#13;
 &#13;
     你好，我是樱行，感谢你浏览我的博客&#13;
     我是一个热爱生活的14岁的UP&#13;
@@ -14,4 +14,4 @@
 &#13;
 ## 博客内容&#13;
 ### 这个博客将主要包含以下几类内容：&#13;
-    1.[专业领域]: 我会分享实用内容、技术分享等。</description><guid isPermaLink="true">https://sayxd2024.github.io/sayxd2024/post/guan-yu-bo-ke.html</guid><pubDate>Fri, 20 Sep 2024 13:48:55 +0000</pubDate></item></channel></rss>
+    1.[专业领域]: 我会分享实用内容、技术分享等。</description><guid isPermaLink="true">https://sayxd2024.github.io/sayxd2024/about.html</guid><pubDate>Fri, 20 Sep 2024 13:48:55 +0000</pubDate></item></channel></rss>
